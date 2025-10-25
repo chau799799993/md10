@@ -1,6 +1,6 @@
-"SHBANDO"{
+{
 "type": "FeatureCollection",
-"name": "PLINHXUANTHUDUC",
+"name": "diem1",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "SHBANDO": "to 3 thua 617my loc" }, "geometry": { "type": "Point", "coordinates": [ 106.767136002847039, 10.888809836064487 ] } },
